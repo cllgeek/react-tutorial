@@ -23,6 +23,7 @@ a tutorial react collection and sort,let you easily get started and organized
 1. [react-babel-webpack-boilerplate](https://github.com/ruanyf/react-babel-webpack-boilerplate)
 2. [react-webpack-generators](https://github.com/react-webpack-generators/generator-react-webpack)
 3. [React项目可视化生成器](http://www.overreact.io/)
+4. [react-starter-kit](https://github.com/bodyno/react-starter-kit)
 
 ## demo
 1. [gallery-by-react](https://cllgeek.github.io/gallery-by-react) 地址:[https://github.com/cllgeek/gallery-by-react](https://github.com/cllgeek/gallery-by-react)
