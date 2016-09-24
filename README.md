@@ -12,6 +12,7 @@ a tutorial react collection and sort,let you easily get started and organized
 6. [Redux文档](http://cn.redux.js.org/index.html)
 7. [Redux 莞式教程](https://github.com/kenberkeley/redux-simple-tutorial)
 8. [react-redux-tutorial](https://github.com/lewis617/react-redux-tutorial)
+9. [React 技术栈系列教程](http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html)
 
 ## 相关好文:
 1. [React初体验](http://hustlzp.com/post/2016/03/react-first-blood)
