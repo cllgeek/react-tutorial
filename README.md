@@ -3,8 +3,8 @@ a tutorial react collection and sort,let you easily get started and organized
 
 主要是搜集整理react从入门到深入的教程、工具和自己做的demo,以便日后查阅
 
-> ## 教程:
-1. [为你定制的 React 学习路线](http://geek.csdn.net/news/detail/88222)
+## 教程:
+>1. [为你定制的 React 学习路线](http://geek.csdn.net/news/detail/88222)
 2. [菜鸟教程react入门](http://www.runoob.com/react/react-tutorial.html)
 3. [阮一峰老师的入门react-demo](https://github.com/cllgeek/react-demos)
 4. [React文档](http://reactjs.cn/react/docs/getting-started.html)
@@ -13,7 +13,6 @@ a tutorial react collection and sort,let you easily get started and organized
 7. [Redux 莞式教程](https://github.com/kenberkeley/redux-simple-tutorial)
 8. [react-redux-tutorial](https://github.com/lewis617/react-redux-tutorial)
 9. [React 技术栈系列教程](http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html)
-
 ---
 
 ## 相关好文:
