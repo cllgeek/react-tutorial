@@ -1,7 +1,7 @@
 # react-tutorial
 a tutorial react collection and sort,let you easily get started and organized
 
-主要是搜集整理react从入门到深入的教程、工具和自己做的demo,以便日后查阅
+主要是搜集整理react从入门到深入的教程、工具和自己做的demo,以便日后查阅 :blush:
 
 ## 教程:
 >1. [为你定制的 React 学习路线](http://geek.csdn.net/news/detail/88222)
