@@ -21,6 +21,7 @@ a tutorial react collection and sort,let you easily get started and organized
 2. [React 最佳实践——那些 React 没告诉你但很重要的事](http://www.v2ex.com/t/274697)
 3. [Redux 状态管理方法与实例](https://segmentfault.com/a/1190000005933397)
 4. [高质量的 React 相关文档和翻译](https://github.com/react-guide)
+5. [redux观点](https://github.com/lawrencebla/redux-review)
 
 ---
 
