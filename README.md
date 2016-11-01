@@ -34,7 +34,7 @@ a tutorial react collection and sort,let you easily get started and organized
 ---
 
 ## 规范
->1. [react-style-guide]https://github.com/JasonBoy/javascript/tree/master/react)
+>1. [react-style-guide](https://github.com/JasonBoy/javascript/tree/master/react)
 
 ---
 
