@@ -3,7 +3,7 @@ a tutorial react collection and sort,let you easily get started and organized
 
 主要是搜集整理`react`生态从入门到深入的教程、工具和自己做的demo,以便日后查阅 :blush: 包括web端和移动端(`react-native`)
 
-## react-web端
+## 一、react-web端
 #### 教程:
 >1. [为你定制的 React 学习路线](http://geek.csdn.net/news/detail/88222)
 2. [菜鸟教程react入门](http://www.runoob.com/react/react-tutorial.html)
@@ -46,7 +46,9 @@ a tutorial react collection and sort,let you easily get started and organized
 
 ---
 
-## React Native
+---
+
+## 二、React Native
 #### 相关好文:
 >1. [React Native跨平台移动应用开发实战 - 开篇](https://blog.zaiqiuchang.com/react-native-cross-platform-mobile-app-develop-intro/)
 
