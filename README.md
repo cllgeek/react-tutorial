@@ -49,6 +49,11 @@ a tutorial react collection and sort,let you easily get started and organized
 ---
 
 ## 二、React Native
+#### 教程:
+>1. [react-native官方文档](https://facebook.github.io/react-native/)
+
+---
+
 #### 相关好文:
 >1. [React Native跨平台移动应用开发实战 - 开篇](https://blog.zaiqiuchang.com/react-native-cross-platform-mobile-app-develop-intro/)
 
