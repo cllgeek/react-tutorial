@@ -23,7 +23,7 @@ a tutorial react collection and sort,let you easily get started and organized
 3. [Redux 状态管理方法与实例](https://segmentfault.com/a/1190000005933397)
 4. [高质量的 React 相关文档和翻译](https://github.com/react-guide)
 5. [redux观点](https://github.com/lawrencebla/redux-review)
-
+6. [还在纠结 Flux 或 Relay，或许 Redux 更适合你](https://segmentfault.com/a/1190000003099895)
 ---
 
 #### 相关工具:
@@ -43,6 +43,7 @@ a tutorial react collection and sort,let you easily get started and organized
 >1. [gallery-by-react](https://cllgeek.github.io/gallery-by-react) 地址:[https://github.com/cllgeek/gallery-by-react](https://github.com/cllgeek/gallery-by-react)
 2. [react-router-tutorial](https://github.com/reactjs/react-router-tutorial)
 3. [redux-tutorial](https://github.com/react-guide/redux-tutorial-cn)
+4. [cll's blog](https://cllgeek.github.io/)
 
 ---
 
