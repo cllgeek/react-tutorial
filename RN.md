@@ -1,6 +1,7 @@
 ## React Native
 #### 教程:
 >1. [react-native官方文档](https://facebook.github.io/react-native/)
+2. [React-Native学习指南](https://github.com/reactnativecn/react-native-guide)
 
 ---
 
