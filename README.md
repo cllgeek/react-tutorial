@@ -169,7 +169,7 @@ React是一款非常优秀的前端框架，你要发挥它完全的性能，你
 2. [react-router-tutorial](https://github.com/reactjs/react-router-tutorial)
 3. [redux-tutorial](https://github.com/react-guide/redux-tutorial-cn)
 4. [cll's blog](https://cllgeek.github.io/)
-
+5. [极客教程网](https://www.geekjc.com)
 ---
 
 ---
