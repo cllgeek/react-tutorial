@@ -110,6 +110,7 @@ React是一款非常优秀的前端框架，你要发挥它完全的性能，你
 19. [Flux 傻瓜教程](https://zhuanlan.zhihu.com/p/19900243?columnSlug=FrontendMagazine)
 20. [react+redux渲染性能优化原理](http://foio.github.io/react-redux-performance-boost/)
 21. [React开发社区](https://react.ctolib.com/)
+22. [用mobx代替redux](https://www.geekjc.com/post/5a044533d0a2f936e03a623a)
 
 ---
 
@@ -120,6 +121,7 @@ React是一款非常优秀的前端框架，你要发挥它完全的性能，你
 4. [高质量的 React 相关文档和翻译](https://github.com/react-guide)
 5. [redux观点](https://github.com/lawrencebla/redux-review)
 6. [还在纠结 Flux 或 Relay，或许 Redux 更适合你](https://segmentfault.com/a/1190000003099895)
+7. [react,react-router 4,mobx构建我的移动端web](http://www.jianshu.com/p/3d3ed3e0626d)
 
 ---
 
@@ -170,7 +172,7 @@ React是一款非常优秀的前端框架，你要发挥它完全的性能，你
 3. [redux-tutorial](https://github.com/react-guide/redux-tutorial-cn)
 4. [cll's blog](https://cllgeek.github.io/)
 5. [极客教程网](https://www.geekjc.com)
-
+6. [极客教程移动版](http://m.geekjc.com)
 ---
 
 ---
