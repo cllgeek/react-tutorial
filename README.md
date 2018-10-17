@@ -12,6 +12,7 @@ a tutorial react collection and sort,let you easily get started and organized
 >1. [React 设计思想](https://github.com/react-guide/react-basic)
 2. [React的设计哲学 - 简单之美](http://www.infoq.com/cn/articles/react-art-of-simplity/) 
 3. [颠覆式前端UI开发框架:React](http://www.infoq.com/cn/articles/subversion-front-end-ui-development-framework-react/)
+4. [React 模式](https://www.geekjc.com/ebook/detail/5bae0c10ddb4f437ecfdc708/1538132695121)
 
 ---
 
@@ -166,13 +167,15 @@ React是一款非常优秀的前端框架，你要发挥它完全的性能，你
 - [react-hn](https://github.com/insin/react-hn)
 - [Perseus](https://github.com/khan/perseus)
 
-### 自己练习做的项目
->1. [gallery-by-react](https://cllgeek.github.io/gallery-by-react) 地址:[https://github.com/cllgeek/gallery-by-react](https://github.com/cllgeek/gallery-by-react)
-2. [react-router-tutorial](https://github.com/reactjs/react-router-tutorial)
-3. [redux-tutorial](https://github.com/react-guide/redux-tutorial-cn)
-4. [cll's blog](https://cllgeek.github.io/)
-5. [极客教程网](https://www.geekjc.com)
-6. [极客教程移动版](http://m.geekjc.com)
+### 自己做的项目
+>1.[极客教程网](https://www.geekjc.com)
+2. [极客教程移动版](http://m.geekjc.com)
+3. [cll's blog](https://cllgeek.github.io/)
+4. [gallery-by-react](https://cllgeek.github.io/gallery-by-react) 地址:[https://github.com/cllgeek/gallery-by-react](https://github.com/cllgeek/gallery-by-react)
+
+### 其它相关
+1. [react-router-tutorial](https://github.com/reactjs/react-router-tutorial)
+2. [redux-tutorial](https://github.com/react-guide/redux-tutorial-cn)
 ---
 
 ---
